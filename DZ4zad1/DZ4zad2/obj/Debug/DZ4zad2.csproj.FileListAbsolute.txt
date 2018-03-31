@@ -1,0 +1,12 @@
+E:\proga_Visual\Windows_Form\DZ4zad1\DZ4zad2\bin\Debug\DZ4zad2.exe.config
+E:\proga_Visual\Windows_Form\DZ4zad1\DZ4zad2\bin\Debug\DZ4zad2.exe
+E:\proga_Visual\Windows_Form\DZ4zad1\DZ4zad2\bin\Debug\DZ4zad2.pdb
+E:\proga_Visual\Windows_Form\DZ4zad1\DZ4zad2\obj\Debug\DZ4zad2.csprojResolveAssemblyReference.cache
+E:\proga_Visual\Windows_Form\DZ4zad1\DZ4zad2\obj\Debug\DZ4zad2.Form1.resources
+E:\proga_Visual\Windows_Form\DZ4zad1\DZ4zad2\obj\Debug\DZ4zad2.Properties.Resources.resources
+E:\proga_Visual\Windows_Form\DZ4zad1\DZ4zad2\obj\Debug\DZ4zad2.csproj.GenerateResource.Cache
+E:\proga_Visual\Windows_Form\DZ4zad1\DZ4zad2\obj\Debug\DZ4zad2.exe
+E:\proga_Visual\Windows_Form\DZ4zad1\DZ4zad2\obj\Debug\DZ4zad2.pdb
+E:\proga_Visual\Windows_Form\DZ4zad1\DZ4zad2\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\proga_Visual\Windows_Form\DZ4zad1\DZ4zad2\obj\Debug\DZ4zad2.csproj.CoreCompileInputs.cache
+E:\proga_Visual\Windows_Form\DZ4zad1\DZ4zad2\obj\Debug\DZ4zad2.csproj.CopyComplete
